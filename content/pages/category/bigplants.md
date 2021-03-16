@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Plants
 layout: category
 order: 1
 ---
