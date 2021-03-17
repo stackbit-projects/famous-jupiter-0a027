@@ -8,6 +8,7 @@ default_thumbnail_image: images/plant6.jpg
 default_original_image: images/plant6-lg.jpg
 order: 6
 category: content/pages/category/bigplants.md
+featured: true
 ---
 
 # Donec finibus
